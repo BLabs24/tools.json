@@ -1,0 +1,68 @@
+[
+ {
+   "name": "Flowkait",
+   "summary": "A no-code workflow builder for AI automation",
+   "tags": "Automation, Solo-Friendly, Cost Saver",
+   "link": "https://www.google.com/?client=safari",
+   "logo": "https://cdn.lindoai.com/c/reczb5SSUuK8NEYo1/images/f227-blog_keyword_1-_blog_kugg5378_image_1.png",
+   "affiliate": "Own",
+   "status": "active",
+   "created_on": "3/30/2025",
+   "featured": "yes"
+ },
+ {
+   "name": "Pulsewave",
+   "summary": "AI-powered content scheduler for social media",
+   "tags": "Social, Automation, Productivity",
+   "link": "https://www.apple.com",
+   "logo": "https://cdn.lindoai.com/c/reczb5SSUuK8NEYo1/images/f227-blog_keyword_1-_blog_kugg2185_image_1.png",
+   "affiliate": "No",
+   "status": "active",
+   "created_on": "3/30/2025",
+   "featured": "yes"
+ },
+ {
+   "name": "DataRover",
+   "summary": "AI data analysis platform for business intelligence",
+   "tags": "Analytics, Business, Enterprise",
+   "link": "https://www.apple.com",
+   "logo": "https://cdn.lindoai.com/c/reczb5SSUuK8NEYo1/images/f227-_saas-_block_y8kj4068_image_13.png",
+   "affiliate": "Yes",
+   "status": "active",
+   "created_on": "3/30/2025",
+   "featured": "No"
+ },
+ {
+   "name": "ContentMagic",
+   "summary": "AI content generator for blogs and social media",
+   "tags": "Content, Solo-Friendly, Lightweight",
+   "link": "https://jobhub.zenifhai.com",
+   "logo": "https://cdn.lindoai.com/c/reczb5SSUuK8NEYo1/images/f227-_saas-_block_31cz3566_image_1.png",
+   "affiliate": "Yes",
+   "status": "active",
+   "created_on": "3/30/2025",
+   "featured": "No"
+ },
+ {
+   "name": "TaskNinja",
+   "summary": "AI task management and prioritization system",
+   "tags": "Productivity, Business, Cost Saver",
+   "link": "https://www.google.com/?client=safari",
+   "logo": "https://cdn.lindoai.com/c/reczb5SSUuK8NEYo1/images/f227-_saas-_block_y8kj4068_image_8.png",
+   "affiliate": "Yes",
+   "status": "archived",
+   "created_on": "5/11/2024",
+   "featured": "No"
+ },
+ {
+   "name": "SocialInsight",
+   "summary": "AI-powered social media analytics platform",
+   "tags": "Social, Analytics, Enterprise",
+   "link": "https://www.apple.com",
+   "logo": "https://cdn.lindoai.com/c/reczb5SSUuK8NEYo1/images/f227-articles-_blog_card_a5325_image_url.png",
+   "affiliate": "No",
+   "status": "active",
+   "created_on": "3/30/2025",
+   "featured": "No"
+ }
+]
